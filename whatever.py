@@ -7,3 +7,4 @@ for i in range(10):
 print(69)
 
 # fixed
+# in commit message: fixes #<IssueName>
